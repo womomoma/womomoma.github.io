@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://womomoma.github.io/sitemap/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/vqF/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/vLe/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/GkN/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/sZQ/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/CgP/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/nKe/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/gkp/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/GOl/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/nUT/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/aMk/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/oxC/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/tjQ/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/cBC/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/DsF/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/EZV/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/TFu/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/dRJ/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/DtF/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/NVm/sitemap_index.womomoma
+Sitemap: https://womomoma.github.io/HrA/sitemap_index.womomoma
